@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="assets.actionScript.PathInfo"/>
+    <classEntry path="assets.actionScript.SegmentInfo"/>
+    <classEntry path="polygon.radarTrace.RadarTrace_Percent_Effect"/>
+    <classEntry path="polygon.radarTrace.RadarTrace_Percent_EffectInstance"/>
+    <classEntry path="polyline.extendPolylineEffect.ExtendPolylineEffect"/>
+    <classEntry path="polyline.extendPolylineEffect.ExtendPolylineEffectInstance"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
